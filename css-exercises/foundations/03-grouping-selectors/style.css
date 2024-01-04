@@ -1,0 +1,15 @@
+.Nice,
+.nIce {
+  font-family: Helvetica, "Times New Roman", serif;
+  font-size: 28px;
+}
+
+button.Nice {
+  background-color: black;
+  color: white;
+}
+
+button.nIce {
+  background-color: yellow;
+  color: black;
+}

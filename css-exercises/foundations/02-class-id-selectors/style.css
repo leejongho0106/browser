@@ -1,0 +1,19 @@
+.odd {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd.count {
+  font-size: 24px;
+}
+
+#even {
+  color: blue;
+  font-size: 36px;
+}
+
+#though {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: bold;
+}
