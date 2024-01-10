@@ -1,3 +1,65 @@
-* {
-  color: black;
+.title {
+  background-color: blueviolet;
+  color: whitesmoke; 
+  text-align: center;
+}
+
+.marry {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.list {
+  text-align: center;
+}
+/* main html */
+
+
+.blur {
+  background-color: aquamarine;
+  font-family: "brush script mt", cursive;
+}
+/* list css 처리방법(목차 부분) 모름, blurry html */
+
+
+.artist {
+  background-color: aqua;
+  color: brown;
+  font-family: "brush script mt", cursive;
+}
+/* picasso.html */
+
+
+.dizzy {
+  background-color: brown;
+  color: blanchedalmond;
+  font-family: "lucida handwriting", cursive;
+}
+
+#dizzyPhoto {
+  background-color: green;
+}
+/* trippy.html */
+
+
+.interlude {
+  color: darksalmon;
+}
+
+#youth {
+  background-color: burlywood;
+}
+/* lifeke.html */
+
+.camel {
+  color: darksalmon;
+}
+/* tfts.html */
+
+.stephany {
+  background-color: aquamarine;
+}
+
+.happy {
+  color: darksalmon;
 }
